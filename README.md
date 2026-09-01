@@ -32,6 +32,3 @@ The tool identifies the exact version of services like LiteSpeed Web Server and 
 
 ## ⚠️ Disclaimer
 This tool is for *educational and ethical security testing purposes only. Never scan targets without explicit written permission.
-
-## 🇮🇹 Goal
-Developed as part of my portfolio for Cybersecurity studies in Italy.
